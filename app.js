@@ -1,5 +1,6 @@
 import 'skatejs-web-components';
 import { Component, h, prop } from 'skatejs';
+import store from './store';
 
 class App extends Component {
   static get is() { return 's-app' }

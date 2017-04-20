@@ -23,6 +23,7 @@
   "dependencies": {
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
+    "redux": "^3.6.0",
     "skatejs": "^4.6.7",
     "skatejs-web-components": "^0.0.1"
   }
